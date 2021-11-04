@@ -11,4 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //TODO : lista de todos los circulos rojos y hacer que cambie de imagen a verde o que suenen.
+
 }
